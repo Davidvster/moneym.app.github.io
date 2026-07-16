@@ -9,3 +9,24 @@ html, body, #app {
 body {
     background: #111318;
 }
+
+#app-loading {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    background: #111318;
+}
+
+.app-loading-spinner {
+    width: 36px;
+    height: 36px;
+    border: 3px solid #2b2f3a;
+    border-top-color: #7c9cff;
+    border-radius: 50%;
+    animation: app-loading-spin 0.8s linear infinite;
+}
+
+@keyframes app-loading-spin {
+    to { transform: rotate(360deg); }
+}
