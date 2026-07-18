@@ -84,6 +84,8 @@ string|assets_save|U2F2ZQ==
 string|assets_select_category|U2VsZWN0IGFzc2V0IGNhdGVnb3J5
 string|assets_select_currency|U2VsZWN0IGN1cnJlbmN5
 string|assets_selected_count|JTEkZCBzZWxlY3RlZA==
+string|assets_sync_now|U8O8bmtyb29uaSBrb2hl
+string|assets_sync_sheet_title|UGlsdmVzw7xua3Jvb25pbWluZQ==
 string|assets_tab|QXNzZXRz
 string|assets_title|QXNzZXRz
 string|assets_valuation_title|VmFsdWF0aW9u
