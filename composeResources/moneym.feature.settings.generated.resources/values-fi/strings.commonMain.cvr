@@ -1,6 +1,8 @@
 version:0
 string|settings_about|VGlldG9qYQ==
 string|settings_ai_models|QUkgbW9kZWxz
+string|settings_allow_screen_recording_subtitle|U2FsbGkgbsOkeXTDtm4gdGFsbGVubnVzIGphIEFpclBsYXk=
+string|settings_allow_screen_recording|U2FsbGkgbsOkeXTDtm4gdGFsbGVubnVz
 string|settings_allow_screenshots_subtitle|U2FsbGkga3V2YWthYXBwYXVrc2V0IGphIG7DpHl0w7ZuIHRhbGxlbm51cw==
 string|settings_allow_screenshots|U2FsbGkga3V2YWthYXBwYXVrc2V0
 string|settings_app_info_footer|JTEkcyB2JTIkcw==

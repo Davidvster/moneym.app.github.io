@@ -1,6 +1,8 @@
 version:0
 string|settings_about|T20=
 string|settings_ai_models|QUkgbW9kZWxz
+string|settings_allow_screen_recording_subtitle|VGlsbGF0IHNramVybW9wcHRhayBvZyBBaXJQbGF5
+string|settings_allow_screen_recording|VGlsbGF0IHNramVybW9wcHRhaw==
 string|settings_allow_screenshots_subtitle|VGlsbGF0IHNramVybWJpbGRlciBvZyBza2plcm1vcHB0YWs=
 string|settings_allow_screenshots|VGlsbGF0IHNramVybWJpbGRlcg==
 string|settings_app_info_footer|JTEkcyB2JTIkcw==
