@@ -28,7 +28,6 @@ string|analyze_history_delete_cd|RGVsZXRlIGNvbnZlcnNhdGlvbg==
 string|analyze_history_delete_confirm|RGVsZXRl
 string|analyze_history_delete_title|RGVsZXRlIGNvbnZlcnNhdGlvbj8=
 string|analyze_history_empty|Tm8gY29udmVyc2F0aW9ucyB5ZXQuIFlvdXIgY2hhdHMgd2lsbCBhcHBlYXIgaGVyZS4=
-string|analyze_history_new_chat_cd|TmV3IGNoYXQ=
 string|analyze_history_new_chat|TmV3IGFuYWx5c2lz
 string|analyze_history_title|Q2hhdCBoaXN0b3J5
 string|analyze_info_cd|QWJvdXQgQUkgYW5hbHlzaXM=
@@ -36,7 +35,6 @@ string|analyze_input_hint|QXNrIGEgcXVlc3Rpb27igKY=
 string|analyze_intro|QXNrIGFueXRoaW5nIGFib3V0IHlvdXIgZmluYW5jZXMgZm9yIHRoaXMgcGVyaW9kLg==
 string|analyze_manage_models|TWFuYWdlIG1vZGVsc+KApg==
 string|analyze_model_picker_cd|U2VsZWN0IG1vZGVs
-string|analyze_new_chat_cd|TmV3IGNoYXQ=
 string|analyze_remote_privacy_notice|UmVtb3RlIEFJIHNlbmRzIHlvdXIgZmluYW5jZSBjb250ZXh0IGFuZCB0b29sIHJlc3VsdHMgdG8gdGhlIHNlbGVjdGVkIHByb3ZpZGVyLg==
 string|analyze_send_cd|U2VuZA==
 string|analyze_title|QW5hbHl6ZQ==

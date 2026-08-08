@@ -7,13 +7,11 @@ string|category_picker_title|4KS24KWN4KSw4KWH4KSj4KWAIOCkleClhyDgpIXgpKjgpYHgpLj
 string|colorpicker_brightness|4KSa4KSu4KSV
 string|colorpicker_cancel|4KSw4KSm4KWN4KSmIOCkleCksOClh+Ckgg==
 string|colorpicker_hex|4KS54KWH4KSV4KWN4KS4IOCksOCkguCklw==
-string|colorpicker_hue|4KSw4KSC4KSX4KSk
-string|colorpicker_saturation|4KS44KSC4KSk4KWD4KSq4KWN4KSk4KS/
 string|colorpicker_select|4KSw4KSC4KSXIOCkmuClgeCkqOClh+Ckgg==
 string|colorpicker_title|4KSw4KSC4KSXIOCkmuClgeCkqOClh+Ckgg==
-string|currency_picker_all|QWxsIGN1cnJlbmNpZXM=
-string|currency_picker_popular|UG9wdWxhcg==
-string|currency_picker_title|Q3VycmVuY2llcw==
+string|currency_picker_all|4KS44KSt4KWAIOCkruClgeCkpuCljeCksOCkvuCkj+Ckgg==
+string|currency_picker_popular|4KSy4KWL4KSV4KSq4KWN4KSw4KS/4KSv
+string|currency_picker_title|4KSu4KWB4KSm4KWN4KSw4KS+4KSP4KSC
 string|mm_close|4KSs4KSC4KSmIOCkleCksOClh+Ckgg==
 string|month_apr|4KSF4KSq4KWN4KSw4KWI4KSy
 string|month_aug|4KSF4KSX4KS44KWN4KSk
@@ -28,7 +26,7 @@ string|month_nov|4KSo4KS14KSC4KSs4KSw
 string|month_oct|4KSF4KSV4KWN4KSf4KWC4KSs4KSw
 string|month_sep|4KS44KS/4KSk4KSC4KSs4KSw
 string|picker_ok|4KSg4KWA4KSVIOCkueCliA==
-string|tab_assets|QXNzZXRz
+string|tab_assets|4KS44KSC4KSq4KSk4KWN4KSk4KS/
 string|tab_overview|4KSF4KS14KSy4KWL4KSV4KSo
 string|tab_settings|4KS44KWH4KSf4KS/4KSC4KSX4KWN4KS4
 string|tab_transactions|4KSy4KWH4KSoLeCkpuClh+CkqA==

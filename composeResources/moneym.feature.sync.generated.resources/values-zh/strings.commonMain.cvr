@@ -1,9 +1,9 @@
 version:0
 string|sync_deletions_cancel|5YWo6YOo5L+d55WZ
 string|sync_deletions_confirm|5Yig6Zmk5omA6YCJ
-string|sync_deletions_group_asset_categories|QXNzZXQgY2F0ZWdvcmllcw==
-string|sync_deletions_group_asset_values|QXNzZXQgdmFsdWVz
-string|sync_deletions_group_assets|QXNzZXRz
+string|sync_deletions_group_asset_categories|6LWE5Lqn5YiG57G7
+string|sync_deletions_group_asset_values|6LWE5Lqn5Lu35YC8
+string|sync_deletions_group_assets|6LWE5Lqn
 string|sync_deletions_group_budgets|6aKE566X
 string|sync_deletions_group_categories|57G75Yir
 string|sync_deletions_group_payment_modes|5pSv5LuY5pa55byP
@@ -25,5 +25,3 @@ string|sync_settings_rename_label|5q2k6K6+5aSH5ZCN56ew
 string|sync_settings_rename_save|5L+d5a2Y
 string|sync_settings_this_device|5q2k6K6+5aSH
 string|sync_settings_title|6Leo6K6+5aSH5ZCM5q2l
-string|sync_settings_toggle_subtitle|5Zyo55m75b2V5ZCM5LiA5aSH5Lu955qE5omA5pyJ6K6+5aSH5LiK5L+d5oyB5pWw5o2u5ZCM5q2l44CC
-string|sync_settings_toggle_title|6Leo6K6+5aSH5ZCM5q2l

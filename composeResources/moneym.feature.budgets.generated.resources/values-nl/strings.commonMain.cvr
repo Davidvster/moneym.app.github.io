@@ -1,5 +1,4 @@
 version:0
-string|budgets_account_filter_label|UmVrZW5pbmc=
 string|budgets_account_label|UmVrZW5pbmc=
 string|budgets_all_categories|QWxsZSBjYXRlZ29yaWXDq24=
 string|budgets_amount_label|QmVkcmFn
@@ -16,7 +15,7 @@ string|budgets_error_required|VmVycGxpY2h0
 string|budgets_month_picker_cancel|QW5udWxlcmVu
 string|budgets_month_picker_next_year_cd|Vm9sZ2VuZCBqYWFy
 string|budgets_month_picker_now|RGV6ZSBtYWFuZA==
-string|budgets_month_picker_ok|T0s=
+string|budgets_month_picker_ok|T2vDqQ==
 string|budgets_month_picker_prev_year_cd|Vm9yaWcgamFhcg==
 string|budgets_month_picker_title|TWFhbmQgc2VsZWN0ZXJlbg==
 string|budgets_name_label|TmFhbQ==

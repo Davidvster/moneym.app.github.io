@@ -1,11 +1,11 @@
 version:0
-string|asset_category_seed_business|QnVzaW5lc3M=
-string|asset_category_seed_cash|Q2FzaA==
-string|asset_category_seed_investments|SW52ZXN0bWVudHM=
-string|asset_category_seed_other|T3RoZXI=
-string|asset_category_seed_property|UHJvcGVydHk=
-string|asset_category_seed_retirement|UmV0aXJlbWVudA==
-string|asset_category_seed_valuables|VmFsdWFibGVz
+string|asset_category_seed_business|VW50ZXJuZWhtZW4=
+string|asset_category_seed_cash|QmFyZ2VsZA==
+string|asset_category_seed_investments|SW52ZXN0aXRpb25lbg==
+string|asset_category_seed_other|U29uc3RpZ2Vz
+string|asset_category_seed_property|SW1tb2JpbGllbg==
+string|asset_category_seed_retirement|QWx0ZXJzdm9yc29yZ2U=
+string|asset_category_seed_valuables|V2VydGdlZ2Vuc3TDpG5kZQ==
 string|category_seed_eating_out|RXNzZW4gZ2VoZW4=
 string|category_seed_entertainment|VW50ZXJoYWx0dW5n
 string|category_seed_gift|R2VzY2hlbms=
@@ -20,6 +20,3 @@ string|category_seed_shopping|RWlua2F1ZmVu
 string|category_seed_transport|VHJhbnNwb3J0
 string|category_seed_utilities|TmViZW5rb3N0ZW4=
 string|default_account_name|SGF1cHRrb250bw==
-string|nav_tab_overview|w5xiZXJzaWNodA==
-string|nav_tab_settings|RWluc3RlbGx1bmdlbg==
-string|nav_tab_transactions|VHJhbnNha3Rpb25lbg==

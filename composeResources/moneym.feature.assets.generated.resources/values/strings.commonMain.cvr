@@ -1,7 +1,6 @@
 version:0
 string|assets_actual_value|QWN0dWFsIHZhbHVl
 string|assets_add_valuation|QWRkIHZhbHVhdGlvbg==
-string|assets_add_value|QWRkIHZhbHVl
 string|assets_add|QWRkIGFzc2V0
 string|assets_archive_body|VGhpcyBtb3ZlcyB0aGUgYXNzZXQgdG8gYXJjaGl2ZWQgYXNzZXRzLiBZb3UgY2FuIHJlY292ZXIgaXQgbGF0ZXIu
 string|assets_archive_title|QXJjaGl2ZSAlMSRzPw==
@@ -9,7 +8,6 @@ string|assets_archived_assets|QXJjaGl2ZWQgYXNzZXRz
 string|assets_archived_category|QXJjaGl2ZWQgY2F0ZWdvcnk=
 string|assets_archive|QXJjaGl2ZSBhc3NldA==
 string|assets_cancel|Q2FuY2Vs
-string|assets_category_add|QWRk
 string|assets_category_archived|QXJjaGl2ZWQ=
 string|assets_category_archive|QXJjaGl2ZSBjYXRlZ29yeQ==
 string|assets_category_color_custom|Q3VzdG9tIGNvbG9y
@@ -30,7 +28,6 @@ string|assets_category_none|Tm8gY2F0ZWdvcnk=
 string|assets_category_preview|QXNzZXQgY2F0ZWdvcnk=
 string|assets_category_show_archived|QXJjaGl2ZWQgKCUxJGQp
 string|assets_category_unarchive|VW5hcmNoaXZlIGNhdGVnb3J5
-string|assets_category_used_count|JTEgYXNzZXRz
 string|assets_category|Q2F0ZWdvcnk=
 string|assets_clear_filters|Q2xlYXIgZmlsdGVycw==
 string|assets_confirm|Q29uZmlybQ==
@@ -62,7 +59,6 @@ string|assets_export|RXhwb3J0
 string|assets_filter_content_description|T3BlbiBhc3NldCBmaWx0ZXJz
 string|assets_filter_no_results|Tm8gYXNzZXRzIG1hdGNoIHRoZXNlIGZpbHRlcnM=
 string|assets_filters|RmlsdGVycw==
-string|assets_filter|RmlsdGVy
 string|assets_format_csv|Q1NW
 string|assets_format_json|SlNPTg==
 string|assets_gain_loss|R2FpbiAvIGxvc3M=
@@ -81,12 +77,8 @@ string|assets_recover|UmVjb3Zlcg==
 string|assets_required_field|JTEkcyBpcyByZXF1aXJlZA==
 string|assets_save_as_new|U2F2ZSBhcyBuZXc=
 string|assets_save|U2F2ZQ==
-string|assets_select_category|U2VsZWN0IGFzc2V0IGNhdGVnb3J5
-string|assets_select_currency|U2VsZWN0IGN1cnJlbmN5
 string|assets_selected_count|JTEkZCBzZWxlY3RlZA==
 string|assets_sync_now|U3luYyBub3c=
 string|assets_sync_sheet_title|Q2xvdWQgc3luYw==
-string|assets_tab|QXNzZXRz
 string|assets_title|QXNzZXRz
 string|assets_valuation_title|VmFsdWF0aW9u
-string|assets_value_saved|VmFsdWUgc2F2ZWQ=

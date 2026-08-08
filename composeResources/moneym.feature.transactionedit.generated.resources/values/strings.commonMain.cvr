@@ -1,14 +1,9 @@
 version:0
 string|edit_add_transaction|QWRkIHRyYW5zYWN0aW9u
-string|edit_amount_error|RW50ZXIgYSB2YWxpZCBhbW91bnQ=
-string|edit_amount_label|QW1vdW50
-string|edit_budget_after_label|QWZ0ZXIgdGhpcyB0cmFuc2FjdGlvbg==
 string|edit_budget_section_title|QnVkZ2V0cw==
 string|edit_calculator_title|Q2FsY3VsYXRvcg==
 string|edit_category_error|U2VsZWN0IGEgY2F0ZWdvcnk=
 string|edit_category_label|Q2F0ZWdvcnk=
-string|edit_close|Q2xvc2U=
-string|edit_date_label|RGF0ZQ==
 string|edit_date_ok|T0s=
 string|edit_date_today|VG9kYXk=
 string|edit_date_yesterday|WWVzdGVyZGF5
@@ -16,8 +11,9 @@ string|edit_delete_confirm_body|VGhpcyBjYW5ub3QgYmUgdW5kb25lLg==
 string|edit_delete_confirm_cancel|Q2FuY2Vs
 string|edit_delete_confirm_ok|RGVsZXRl
 string|edit_delete_confirm_title|RGVsZXRlIHRyYW5zYWN0aW9uPw==
-string|edit_delete|RGVsZXRl
-string|edit_note_label|Tm90ZSAob3B0aW9uYWwp
+string|edit_extra_details_label|QWRkaXRpb25hbCBkZXRhaWxz
+string|edit_extra_details_placeholder|QWRkIGV4dHJhIGRldGFpbHPigKYgKG9wdGlvbmFsKQ==
+string|edit_extra_details_toggle|QWRkIGFkZGl0aW9uYWwgZGV0YWlscw==
 string|edit_note_placeholder|QWRkIGEgbm90ZeKApiAob3B0aW9uYWwp
 string|edit_payment_mode_label|UGF5bWVudCBtb2Rl
 string|edit_save_as_new|U2F2ZSBhcyBuZXc=

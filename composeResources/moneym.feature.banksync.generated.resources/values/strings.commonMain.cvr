@@ -10,7 +10,6 @@ string|bank_sync_cancel|Q2FuY2Vs
 string|bank_sync_change_country|Q2hhbmdlIGNvdW50cnk=
 string|bank_sync_choose_country|Q2hvb3NlIHlvdXIgY291bnRyeQ==
 string|bank_sync_connect_bank|Q29ubmVjdCBhIGJhbms=
-string|bank_sync_country_label|Q291bnRyeSBjb2Rl
 string|bank_sync_disconnect_confirm_body|VGhpcyByZW1vdmVzIHRoZSBiYW5rIGNvbm5lY3Rpb24gYW5kIGFsbCBsaW5rZWQgYWNjb3VudHMuIEltcG9ydGVkIHRyYW5zYWN0aW9ucyBzdGF5Lg==
 string|bank_sync_disconnect_confirm_title|RGlzY29ubmVjdCBiYW5rPw==
 string|bank_sync_disconnect|RGlzY29ubmVjdA==
@@ -19,7 +18,6 @@ string|bank_sync_error_generic|RmFpbGVkOiAlMSRz
 string|bank_sync_info|SW5mbw==
 string|bank_sync_last_sync_never|Tm90IHN5bmNlZCB5ZXQ=
 string|bank_sync_last_synced|TGFzdCBzeW5jZWQgJTEkcw==
-string|bank_sync_load_banks|RmluZCBiYW5rcw==
 string|bank_sync_no_accounts|Tm8gbGlua2VkIGFjY291bnRzIHlldA==
 string|bank_sync_private_key_label|UHJpdmF0ZSBrZXkgKFBFTSk=
 string|bank_sync_reconnect_required|QmFuayBhY2Nlc3MgZXhwaXJlZCDigJQgcmVjb25uZWN0IHlvdXIgYmFuaw==
@@ -27,7 +25,6 @@ string|bank_sync_redirect_invalid|Q291bGQgbm90IGZpbmQgYSBjb2RlIGluIHRoZSBwYXN0ZW
 string|bank_sync_redirect_label|UmVkaXJlY3QgbGluayBvciBjb2Rl
 string|bank_sync_review_pending|UmV2aWV3ICUxJGQgc3VnZ2VzdGVkIHRyYW5zYWN0aW9ucw==
 string|bank_sync_save_continue|U2F2ZSAmIGNvbnRpbnVl
-string|bank_sync_save_credentials|U2F2ZSAmIHZhbGlkYXRl
 string|bank_sync_search_banks|U2VhcmNoIGJhbmtz
 string|bank_sync_search_country|U2VhcmNoIGNvdW50cnkgb3IgY29kZQ==
 string|bank_sync_session_valid_until|QWNjZXNzIHZhbGlkIHVudGlsICUxJHM=
@@ -50,7 +47,6 @@ string|suggestions_accept|QWNjZXB0
 string|suggestions_assign_account|QXNzaWduIHdhbGxldA==
 string|suggestions_assign_category|QXNzaWduIGNhdGVnb3J5
 string|suggestions_category_label|Q2F0ZWdvcnk=
-string|suggestions_clear_selection|Q2xlYXI=
 string|suggestions_delete_confirm_body|VGhpcyBwZXJtYW5lbnRseSBkZWxldGVzICUxJGQgcmVqZWN0ZWQgc3VnZ2VzdGlvbnMuIFRoaXMgY2FuJ3QgYmUgdW5kb25lLg==
 string|suggestions_delete_confirm_title|RGVsZXRlIHJlamVjdGVkIHN1Z2dlc3Rpb25zPw==
 string|suggestions_delete_selected|RGVsZXRlIHNlbGVjdGVkICglMSRkKQ==
@@ -84,4 +80,3 @@ string|suggestions_tab_rejected|UmVqZWN0ZWQ=
 string|suggestions_title|U3VnZ2VzdGVkIHRyYW5zYWN0aW9ucw==
 string|suggestions_undo|VW5kbw==
 string|suggestions_unselect_all|VW5zZWxlY3QgYWxs
-string|suggestions_wallet_missing|QXNzaWduIGEgd2FsbGV0IHRvIHRoaXMgYmFuayBhY2NvdW50IGZpcnN0

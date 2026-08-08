@@ -7,13 +7,11 @@ string|category_picker_title|S2F0ZWdvcml5ZSBnw7ZyZSBmaWx0cmVsZQ==
 string|colorpicker_brightness|UGFybGFrbMSxaw==
 string|colorpicker_cancel|xLBwdGFs
 string|colorpicker_hex|SGV4IHJlbmdp
-string|colorpicker_hue|VG9u
-string|colorpicker_saturation|RG95Z3VubHVr
 string|colorpicker_select|UmVuayBzZcOn
 string|colorpicker_title|UmVuayBzZcOn
-string|currency_picker_all|QWxsIGN1cnJlbmNpZXM=
-string|currency_picker_popular|UG9wdWxhcg==
-string|currency_picker_title|Q3VycmVuY2llcw==
+string|currency_picker_all|VMO8bSBwYXJhIGJpcmltbGVyaQ==
+string|currency_picker_popular|UG9ww7xsZXI=
+string|currency_picker_title|UGFyYSBiaXJpbWxlcmk=
 string|mm_close|S2FwYXQ=
 string|month_apr|TmlzYW4=
 string|month_aug|QcSfdXN0b3M=
@@ -28,7 +26,7 @@ string|month_nov|S2FzxLFt
 string|month_oct|RWtpbQ==
 string|month_sep|RXlsw7xs
 string|picker_ok|VGFtYW0=
-string|tab_assets|QXNzZXRz
+string|tab_assets|VmFybMSxa2xhcg==
 string|tab_overview|R2VuZWwgQmFrxLHFnw==
 string|tab_settings|QXlhcmxhcg==
 string|tab_transactions|xLDFn2xlbWxlcg==

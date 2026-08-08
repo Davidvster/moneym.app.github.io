@@ -1,5 +1,4 @@
 version:0
-string|budgets_account_filter_label|S29udG8=
 string|budgets_account_label|S29udG8=
 string|budgets_all_categories|QWxsZSBLYXRlZ29yaWVu
 string|budgets_amount_label|QmV0cmFn
@@ -16,10 +15,10 @@ string|budgets_error_required|UGZsaWNodGZlbGQ=
 string|budgets_month_picker_cancel|QWJicmVjaGVu
 string|budgets_month_picker_next_year_cd|TsOkY2hzdGVzIEphaHI=
 string|budgets_month_picker_now|RGllc2VyIE1vbmF0
-string|budgets_month_picker_ok|T0s=
+string|budgets_month_picker_ok|T2theQ==
 string|budgets_month_picker_prev_year_cd|Vm9yaGVyaWdlcyBKYWhy
 string|budgets_month_picker_title|TW9uYXQgYXVzd8OkaGxlbg==
-string|budgets_name_label|TmFtZQ==
+string|budgets_name_label|QmV6ZWljaG51bmc=
 string|budgets_new_title|TmV1ZXMgQnVkZ2V0
 string|budgets_new|TmV1ZXMgQnVkZ2V0
 string|budgets_next_month|TsOkY2hzdGVyIE1vbmF0
@@ -35,4 +34,4 @@ string|budgets_recurring_unlimited|VW5iZWdyZW56dA==
 string|budgets_recurring|V2llZGVya2VocmVuZA==
 string|budgets_save|U3BlaWNoZXJu
 string|budgets_start_month|U3RhcnRtb25hdA==
-string|budgets_title|QnVkZ2V0cw==
+string|budgets_title|TWVpbmUgQnVkZ2V0cw==
